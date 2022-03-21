@@ -1,0 +1,23 @@
+<!--
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" >
+  <defs>
+    <style>.Crystal{fill:#000000;}</style>
+  </defs>
+
+  <title>Crystal.Network Icon</title>
+
+  <g id="Crystal" data-name="icon">
+
+    <path fill="white" d="M180 782 L1414 1500 L180 2218 Z" />
+
+    <path fill="white" d="M1460 0 L226 718 L1460 1437 Z" />
+    <path fill="white" d="M1460 3000 L226 2282 L1460 1563 Z" />
+
+    <path fill="white" d="M1540 0 L2774 718 L1540 1437 Z" />
+    <path fill="white" d="M1540 3000 L2774 2282 L1540 1563 Z" />
+
+  </g>
+</svg>
